@@ -1,6 +1,6 @@
 # CineFinder
 
-**Project Description** <u>Underlined Section:</u>
+**Project Description**<br>
 Developed a Python-based application using the Tkinter library that allows users to search for movies and web shows, view a list of matching results, and display detailed information for a selected title.
 
 Key Features:
@@ -13,8 +13,8 @@ Key Features:
 5. Error Handling: Provides user feedback for various error conditions (e.g., no results found, API errors).
 6. Full-Screen Mode: The application runs in full-screen mode, with an option to exit using the Escape key.
 
-Technologies Used:
-Programming Language: Python
-GUI Library: Tkinter for the graphical user interface
-API Integration: OMDB API for fetching movie and web show data
-Image Processing: PIL (Pillow) for handling and displaying poster images
+Technologies Used:<br>
+1. Programming Language: Python
+2. GUI Library: Tkinter for the graphical user interface
+3. API Integration: OMDB API for fetching movie and web show data
+4. Image Processing: PIL (Pillow) for handling and displaying poster images
