@@ -1,4 +1,6 @@
 # CineFinder
+
+**Project Description** <u>Underlined Section:</u>
 Developed a Python-based application using the Tkinter library that allows users to search for movies and web shows, view a list of matching results, and display detailed information for a selected title.
 
 Key Features:
