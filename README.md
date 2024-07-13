@@ -21,6 +21,7 @@ Developed a Python-based application using the Tkinter library that allows users
 
 **Please download the executable file and try the project**
 https://drive.google.com/file/d/1MzXWCRn3JPAkkynhXKVN3n7PfcTo0n5C/view?usp=sharing
+Tip: Kindly wait for a few seconds after initially opening the program, it might take time to load, depending on the system settings.
 
 **Sample Screenshot**
 <br></br>
