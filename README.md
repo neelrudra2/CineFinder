@@ -3,7 +3,7 @@
 **Project Description**<br>
 Developed a Python-based application using the Tkinter library that allows users to search for movies and web shows, view a list of matching results, and display detailed information for a selected title.
 
-Key Features:
+<u>**Key Features**</u>:
 1. User Input Handling: Users can input a movie or web show title in a search bar.
 2. Search Functionality:
   Utilizes the OMDB API to search for titles matching the user input.
@@ -13,7 +13,7 @@ Key Features:
 5. Error Handling: Provides user feedback for various error conditions (e.g., no results found, API errors).
 6. Full-Screen Mode: The application runs in full-screen mode, with an option to exit using the Escape key.
 
-Technologies Used:<br>
+<u>**Technologies Used**</u>:<br>
 1. Programming Language: Python
 2. GUI Library: Tkinter for the graphical user interface
 3. API Integration: OMDB API for fetching movie and web show data
