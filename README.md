@@ -18,6 +18,3 @@ Developed a Python-based application using the Tkinter library that allows users
 2. GUI Library: Tkinter for the graphical user interface
 3. API Integration: OMDB API for fetching movie and web show data
 4. Image Processing: PIL (Pillow) for handling and displaying poster images
-
-
-![CineFinder](https://github.com/user-attachments/assets/e2972228-a448-48a1-9374-3bfffab06d32)
