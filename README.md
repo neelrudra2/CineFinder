@@ -19,7 +19,7 @@ Developed a Python-based application using the Tkinter library that allows users
 3. API Integration: OMDB API for fetching movie and web show data
 4. Image Processing: PIL (Pillow) for handling and displaying poster images
 
-**Please download the executable file and try the project**
+**You can download the executable file and try the project**
 https://drive.google.com/file/d/1MzXWCRn3JPAkkynhXKVN3n7PfcTo0n5C/view?usp=sharing
 <br>Tip: Kindly wait for a few seconds after initially opening the program, it might take time to load, depending on the system settings.
 
